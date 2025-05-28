@@ -1,4 +1,5 @@
 #Koden er taget fra løsning af problemsæt 1
+import numpy as np
 
 def check_dominance_for_1(U1):
     '''
